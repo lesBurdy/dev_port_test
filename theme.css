@@ -1,6 +1,7 @@
 .tabs-underlined {
   display: flex;
   align-items: center;
+  list-style: none;
 }
 
 .tabs-underlined .tab-underlined {
