@@ -14,11 +14,7 @@ permalink: TechnicalRequirements.html
 
 > ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra nam libero justo laoreet sit amet cursus sit. Risus nullam eget felis eget nunc lobortis mattis aliquam. Risus ultricies tristique nulla aliquet enim tortor at. Faucibus in ornare quam viverra orci sagittis. Tristique senectus et netus et malesuada fames ac turpis egestas. Fermentum et sollicitudin ac orci phasellus egestas tellus. Imperdiet proin fermentum leo vel orci porta non pulvinar. Luctus accumsan tortor posuere ac ut consequat semper viverra. Nulla at volutpat diam ut venenatis.
 
-```ruby
-def foo(x)
-  return 3
-end
-```
+![some chart](assets/chart.jpg){:height="300px" width="400px"}
 
 > ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra nam libero justo laoreet sit amet cursus sit. Risus nullam eget felis eget nunc lobortis mattis aliquam. Risus ultricies tristique nulla aliquet enim tortor at. Faucibus in ornare quam viverra orci sagittis. Tristique senectus et netus et malesuada fames ac turpis egestas. Fermentum et sollicitudin ac orci phasellus egestas tellus. Imperdiet proin fermentum leo vel orci porta non pulvinar. Luctus accumsan tortor posuere ac ut consequat semper viverra. Nulla at volutpat diam ut venenatis.
 
