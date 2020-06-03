@@ -12,5 +12,4 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-
-remote_theme: sharu725 / online-cv
+  - LofeltHapticPhilosophy.md
