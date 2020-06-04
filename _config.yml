@@ -1,7 +1,7 @@
 title: SDK Documentation
 plugins:
   - jekyll-relative-links
-# remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 theme: just-the-docs
 relative_links:
   enabled: true
