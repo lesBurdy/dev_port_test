@@ -2,18 +2,8 @@
   <link rel="stylesheet" type="text/css" href="theme.css">
 </head>
 
-### Index file
-
-> here is a file with some text about stuff that is really not important
-
-<ul class="list-inline tabs-underlined">
-  <li>
-    <a href="LofeltHapticPhilosophy" title="Welcome to Lofelt Studio" class="tab-underlined">Welcome to Lofelt Studio</a>
-  </li>
-  <li>
-      <a href="TechnicalRequirements" title="Technical Requirements" class="tab-underlined">Technical Requirements</a>
-  </li>
-  <li>
-    <a href="#" class="tab-underlined">Conversations</a>
-  </li>
-</ul>
+<!-- <ul>
+  {% for item in site.pages %}
+    <li {% if page.url contains item.url %}class="active"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul> -->

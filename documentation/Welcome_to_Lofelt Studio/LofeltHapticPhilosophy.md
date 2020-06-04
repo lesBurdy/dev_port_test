@@ -1,11 +1,12 @@
 ---
-title: Welcome to Lofelt Studio
+title: Lofelt Haptic Philosophy
 tags: [formatting]
 keywords: notes, tips, cautions, warnings, admonitions
 last_updated: July 3, 2016
 summary: "You can insert notes, tips, warnings, and important alerts in your content."
 sidebar: mydoc_sidebar
 permalink: LofeltHapticPhilosophy.html
+parent: Welcome To Lofelt
 ---
 
 # Welcome to Lofelt Studio
