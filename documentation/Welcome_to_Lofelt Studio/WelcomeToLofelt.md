@@ -7,6 +7,7 @@ summary: "You can insert notes, tips, warnings, and important alerts in your con
 sidebar: mydoc_sidebar
 permalink: WelcomeToLofelt.html
 has_children: true
+nav_order: 1
 ---
 
 ### Welcome to Lofelt Page
