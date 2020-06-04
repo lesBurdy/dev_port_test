@@ -1,4 +1,6 @@
-title: SDK Documentation
+# title: SDK Documentation
+logo: "/assets/images/lofelt-logo-rgb-white.svg"
+search_enabled: true
 plugins:
   - jekyll-relative-links
 remote_theme: pmarsceill/just-the-docs
