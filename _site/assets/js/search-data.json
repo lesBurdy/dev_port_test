@@ -32,7 +32,7 @@
   }
   ,"5": {
     "title": "Home",
-    "content": "here is the home file that we will display as the main page .",
+    "content": "here is the home file that we will display as the main page . we can obviously have some nice images or text or buttons or whatever we want here. .",
     "url": "http://localhost:4000/",
     "relUrl": "/"
   }

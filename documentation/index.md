@@ -8,12 +8,11 @@ summary: "You can insert notes, tips, warnings, and important alerts in your con
 sidebar: mydoc_sidebar
 permalink: /
 has_children: true
+has_toc: false
 ---
 
 ### here is the home file that we will display as the main page
 
-<!-- <ul>
-  {% for item in site.pages %}
-    <li {% if page.url contains item.url %}class="active"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>
-  {% endfor %}
-</ul> -->
+> we can obviously have some nice images or text or buttons or whatever we want here.
+
+{% include VideoPlayer.html id="_TNhX1dWsPE" %}
