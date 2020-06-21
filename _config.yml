@@ -15,3 +15,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+aux_links:
+  "Get Support":
+    - "https://testcustomerfeedback.atlassian.net/servicedesk/customer/portal/1"
